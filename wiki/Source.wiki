@@ -1,5 +1,3 @@
 #summary Source code for KeePassDroid.
 
-= Source =
-
 The source code is currently hosted at http://github.com/bpellin/keepassdroid
