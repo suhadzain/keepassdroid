@@ -1,0 +1,1 @@
+The source code is currently hosted at http://github.com/bpellin/keepassdroid
